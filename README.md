@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This research employs Genetic Algorithms to identify optimal parameters for a trading strategy aimed at maximizing performance on the NASDAQ 100 index since its inception. Additionally, we utilize Hidden Markov Models to detect market regimes, ensuring that the trading strategy is applied exclusively during periods characterized by an "uptrend."
+This research employs Genetic Algorithms to identify optimal parameters for a trading strategy aimed at maximizing performance on the S&P500 index since its inception. Additionally, we utilize Hidden Markov Models to detect market regimes, ensuring that the trading strategy is applied exclusively during periods characterized by an "uptrend."
 
 ## Details
 
